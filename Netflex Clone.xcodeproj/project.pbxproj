@@ -76,6 +76,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		845CCFF22B4BD39300339779 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		845CCFF32B4BD3A200339779 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		845CCFF42B4BD3B600339779 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		845CCFF52B4BD3EF00339779 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		845CCFF62B4BD41200339779 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
 		84CB11C82B47DC5600B3A62C = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +132,11 @@
 		84CB11D32B47DC5600B3A62C /* Netflex Clone */ = {
 			isa = PBXGroup;
 			children = (
+				845CCFF62B4BD41200339779 /* Managers */,
+				845CCFF52B4BD3EF00339779 /* Resources */,
+				845CCFF42B4BD3B600339779 /* Models */,
+				845CCFF22B4BD39300339779 /* Views */,
+				845CCFF32B4BD3A200339779 /* ViewModels */,
 				84CB12042B47E3BB00B3A62C /* Controllers */,
 				84CB11D42B47DC5600B3A62C /* AppDelegate.swift */,
 				84CB11D62B47DC5600B3A62C /* SceneDelegate.swift */,
