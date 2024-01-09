@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8489A2232B4D23EC00299568 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8489A2222B4D23EC00299568 /* CollectionViewTableViewCell.swift */; };
 		84CB11D52B47DC5600B3A62C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CB11D42B47DC5600B3A62C /* AppDelegate.swift */; };
 		84CB11D72B47DC5600B3A62C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CB11D62B47DC5600B3A62C /* SceneDelegate.swift */; };
 		84CB11D92B47DC5600B3A62C /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CB11D82B47DC5600B3A62C /* MainTabBarViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8489A2222B4D23EC00299568 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		84CB11D12B47DC5600B3A62C /* Netflex Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Netflex Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84CB11D42B47DC5600B3A62C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84CB11D62B47DC5600B3A62C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		845CCFF22B4BD39300339779 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				8489A2222B4D23EC00299568 /* CollectionViewTableViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 			files = (
 				84CB120A2B47E48A00B3A62C /* SearchViewController.swift in Sources */,
 				84CB11D92B47DC5600B3A62C /* MainTabBarViewController.swift in Sources */,
+				8489A2232B4D23EC00299568 /* CollectionViewTableViewCell.swift in Sources */,
 				84CB120C2B47E4CA00B3A62C /* DownloadsViewController.swift in Sources */,
 				84CB11D52B47DC5600B3A62C /* AppDelegate.swift in Sources */,
 				84CB11D72B47DC5600B3A62C /* SceneDelegate.swift in Sources */,
